@@ -153,8 +153,7 @@ html {
     margin-bottom:140px ;
     font-size: 20px;
 }
-.ppp a {
+a {
     text-decoration: none;
-    color: orangered;
+    color: rgb(255, 115, 0);
 }
-
